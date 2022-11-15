@@ -2,4 +2,4 @@
 Here you find my *bash script* from **Library Carpentry**.
 
 - date: 2022-11-14
-- author: Rabea Müller
+- author: Rabea Müller, Katja added something 
